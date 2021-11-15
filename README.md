@@ -24,4 +24,4 @@
 - Limitation of this code is that I did not spend time on preprocessing the doc to get better photo.
 
 
-### It was an interesting task to spend time on. I really enjoyed do it.
+### It was an interesting task to spend time on. I really enjoyed doing it.
